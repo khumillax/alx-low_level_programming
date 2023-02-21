@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers go here*/
+/**
+ * main - entry point
+ *
+ * return: always 0 
+ */
 
 /* betty style doc for function main goes there */
 int main(void)
