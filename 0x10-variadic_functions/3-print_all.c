@@ -68,7 +68,7 @@ void print_string(va_list arg)
  * @format: string of characters representing the argument types
  * @...: variable number of arguments to be printed
  * Description: Any argument not of type char, int, float,
- * or char * is ignored if a string argument is NULL 
+ * or char * is ignored if a string argument is NULL
  * (nil) is printed instead
  */
 void print_all(const char * const format, ...)
